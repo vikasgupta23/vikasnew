@@ -3,7 +3,7 @@
 
 int first_module_init(void)
 {
-	printk(KERN_ALERT "Hey World !!\n\n");
+	printk(KERN_ALERT "Hey World Changes !!\n\n");
 	return 0;
 }
 
